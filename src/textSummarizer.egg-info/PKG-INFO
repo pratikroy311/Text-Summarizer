@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for text-summarizing
+Home-page: https://github.com/pratik311/Text-Summarizer
+Author: pratik311
+Author-email: pratikroy311@gmail.com
+Project-URL: Bug Tracker, https://github.com/pratik311/Text-Summarizer/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Text-Summarizer
+Text summarizer using Huggingface models
